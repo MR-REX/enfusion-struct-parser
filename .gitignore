@@ -1,0 +1,5 @@
+# Ignore .vscode config directories
+.vscode
+
+# Ignore build directory
+/target
